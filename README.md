@@ -1,4 +1,5 @@
 # Simple Spring Boot Exception App
+[![Build Status](https://app.travis-ci.com/prafullsranjan/simple-springboot-exception-app.svg?branch=master)](https://app.travis-ci.com/prafullsranjan/simple-springboot-exception-app)
 
 This is a simple spring boot web app to have custom exception handler by intercepting default spring-boot exception using ControllerAdvice
 
