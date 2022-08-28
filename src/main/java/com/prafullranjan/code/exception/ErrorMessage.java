@@ -4,6 +4,7 @@
 package com.prafullranjan.code.exception;
 
 import java.util.Date;
+
 /**
  * ErrorMessage
  * 

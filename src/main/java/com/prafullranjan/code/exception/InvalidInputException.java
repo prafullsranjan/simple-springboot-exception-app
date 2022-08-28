@@ -6,8 +6,9 @@ package com.prafullranjan.code.exception;
 import java.io.IOException;
 
 /**
+ * InvalidInputException
+ * 
  * @author Prafull
- *
  */
 public class InvalidInputException extends IOException {
 
